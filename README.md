@@ -6,3 +6,7 @@ This the first Day of my Netflix Clone by React Js
 - Create a react app
 - Setup firebase hosting
 - Build the Rows
+
+### What is done by Day 2
+
+- Build the Banner and modify the other src component
