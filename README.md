@@ -14,3 +14,7 @@ This the first Day of my Netflix Clone by React Js
 ### What is done by Day 2 / part 2
 
 - Build the Nav bar
+
+### What is done by Day 3
+
+- Add the youtube trailer popups
