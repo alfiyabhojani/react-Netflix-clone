@@ -1,20 +1,35 @@
-This the first Day of my Netflix Clone by React Js
+# Netflix Clone by **REACT**
 
-### What is done by Day 1
+Hiee!! **Alfiyabanu Bhojani** here... This is React Netflix clone...
 
-- Get TMDB API Key
-- Create a react app
-- Setup firebase hosting
-- Build the Rows
+### What is done in this Clone:-
 
-### What is done by Day 2
+## - Build the rows
 
-- Build the Banner and modify the other src component
+## - Build the banners
 
-### What is done by Day 2 / part 2
+## - Build the Nav bar
 
-- Build the Nav bar
+## - Add the trailer popups
 
-### What is done by Day 3
+### **Tech used**
 
-- Add the youtube trailer popups
+- React
+
+Output Image:-
+
+#### - Image 1
+
+![](./image/Image1.png)
+<br>
+<br>
+
+#### - Image 2
+
+![](./image/Image2.png)
+<br>
+<br>
+
+#### - Image 3
+
+![](./image/Image3.png)
